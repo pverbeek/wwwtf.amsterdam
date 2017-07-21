@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "FrontCheers 🎉"
+title:  "FrontCheers 💫 "
 date:   2017-10-04
-venue: "TBD"
+venue: "Tolhuistuin, Amsterdam"
+href: "https://fronteers.nl/congres/2017/frontcheers"
+ticket: "rsvp"
 time: "evening"
 twitter: frontcheers
 ---
