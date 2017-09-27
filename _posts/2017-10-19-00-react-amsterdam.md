@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "React Amsterdam Meetup"
+title:  "React Amsterdam: Cross-environment Redux Actions and Webpack HMR Tricks"
 date:   2017-10-19
-venue: "TBD"
+venue: "Crea, Amsterdam"
 time: "6:00"
 ticket: "rsvp"
 ticket_href: "https://www.meetup.com/React-Amsterdam/events/242627200/"
